@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=teziovsky&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently working on -> My new portfolio,
+- 🔭 I’m currently working on -> Thesis - Foodtrack app,
 - 🌱 I’m currently learning -> Vue.js,
 - 🤔 I’m looking for a job as -> Frontend Developer in Poznań,
 - 💬 Ask me about -> Anything you want 😁
