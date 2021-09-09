@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="hhttps://github-readme-stats.vercel.app/api?username=teziovsky&show_icons=true&theme=vue-dark&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=teziovsky&show_icons=true&theme=vue-dark&hide_title=true" />
 
 - 🔭 I’m currently working on –> Writing second brain in Obsidian, learning automations.
 - 🌱 I’m currently learning –> Vue.js, Nuxt.js, Gridsome, Tailwindcss, Automations, Node.js, Docker.
