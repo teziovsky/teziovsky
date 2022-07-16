@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on –> Writing second brain in [Obsidian](https://obsidian.md/).
+- 🔭 I’m currently working on –> Learning backend 🤯
 - 🌱 I’m currently learning –> 
     - Frontend:
         - Vue.js,
