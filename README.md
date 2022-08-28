@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on –> Learning backend 🤯
 - 🌱 I’m currently learning –> 
     - Frontend:
-        - Vue.js,
-        - Nuxt.js,
-        - Gridsome,
+        - React.js,
+        - Next.js,
+        - GatsbyJS,
         - Tailwind CSS
     - Backend:
         - Node.js
