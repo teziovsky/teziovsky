@@ -7,7 +7,6 @@
     - Frontend:
         - React.js,
         - Next.js,
-        - GatsbyJS,
         - Tailwind CSS
     - Backend:
         - Node.js
@@ -16,6 +15,7 @@
         - PostgreSQL
     - Developer Tools:
         - Docker
+        - Lerna
 - 💬 Ask me about –> Anything you want 😁
 - 📫 How to reach me –> [Email](mailto:jakub.soboczynski@icloud.com), [Linkedin](https://www.linkedin.com/in/jakubsoboczynski), [Twitter](https://twitter.com/teziovsky).
 - ⚡ Intresting facts -> Techno music lover, impressed by automations.
