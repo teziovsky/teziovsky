@@ -10,7 +10,7 @@
         - Astro,
         - Tailwind CSS
     - Backend:
-        - Node.js
+        - Node.js,
         - Databases
     - Developer Tools:
         - Docker
