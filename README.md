@@ -15,5 +15,5 @@
     - Developer Tools:
         - Docker
 - 💬 Ask me about –> Anything you want 😁
-- 📫 How to reach me –> [Email](mailto:teziovsky@gmail.com), [Linkedin](https://www.linkedin.com/in/jakubsoboczynski), [Twitter](https://twitter.com/teziovsky).
-- ⚡ Intresting facts -> Techno music lover, impressed by automations and blazingly fast apps written in rust.
+- 📫 How to reach me –> [Email](mailto:teziovsky@gmail.com), [LinkedIn](https://www.linkedin.com/in/jakubsoboczynski), [Twitter](https://twitter.com/teziovsky).
+- ⚡ Interesting facts -> Techno music lover, impressed by automation and blazingly fast apps written in Rust.
