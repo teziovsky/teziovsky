@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning → 
     - Backend:
         - Node.js,
-        - PHP + Laravel,
         - Databases
     - Developer Tools:
         - Docker
